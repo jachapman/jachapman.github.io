@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joseph Chapman</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Joseph Chapman</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2026 01:58:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Empty Search Result That Taught Me the Most</title>
+      <link>http://localhost:1313/lab-notes/empty-search-result/</link>
+      <pubDate>Sat, 24 Oct 2026 01:58:39 -0500</pubDate>
+      <guid>http://localhost:1313/lab-notes/empty-search-result/</guid>
+      <description>&lt;p&gt;The most valuable moment in my latest forensics lab was a search that returned nothing.&lt;/p&gt;
+&lt;p&gt;I was looking for a successful login in a Linux authentication log. I typed in my search term, hit enter, and got zero results. My first instinct was that I&amp;rsquo;d missed some technical step. The real explanation was much less glamorous. I had added an extra space, and in a second search I&amp;rsquo;d assumed the spelling of a username instead of reading what the log actually said.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 24 Oct 2026 01:24:12 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Network Engineering Specialist with 3+ years in help desk, network ops, and system administration/infrastructure, majoring in Cybersecurity Technology (graduating 2027). Building SOC/Threat Hunting skills through a Falcon Complete Internship with CrowdStrike, homelabs, TryHackMe/Hack The Box labs, coursework, and PowerShell automation.&lt;/p&gt;
+&lt;p&gt;Open to cybersecurity opportunities | &lt;a href=&#34;https://github.com/jachapman&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

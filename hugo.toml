@@ -1,0 +1,46 @@
+baseURL = 'https://jachapman.github.io'
+locale = 'en-us'
+title = 'Joseph Chapman'
+theme = 'PaperMod'
+
+[pagination]
+pagerSize = 8
+
+[params]
+env = 'production'
+author = 'Joseph Chapman'
+description = 'Cybersecurity, network engineering, threat hunting, writing, labs, and research.'
+defaultTheme = 'dark'
+disableThemeToggle = false
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+UseHugoToc = true
+
+[[menu.main]]
+identifier = 'writing'
+name = 'Writing'
+url = '/writing/'
+weight = 10
+
+[[menu.main]]
+identifier = 'lab-notes'
+name = 'Lab Notes & Cybersecurity Projects'
+url = '/lab-notes/'
+weight = 20
+
+[[menu.main]]
+identifier = 'research'
+name = 'Research'
+url = '/research/'
+weight = 30
+
+[[menu.main]]
+identifier = 'about'
+name = 'About'
+url = '/about/'
+weight = 40
+
+
+
