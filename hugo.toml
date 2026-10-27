@@ -21,7 +21,7 @@ UseHugoToc = true
 [[menu.main]]
 identifier = 'writing'
 name = 'Writing'
-url = '/writing/'
+url = 'https://jachapman.github.io/writing/'
 weight = 10
 
 [[menu.main]]
